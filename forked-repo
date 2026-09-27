@@ -1,0 +1,13 @@
+TASK 6 — FORK REPOSITORY EVIDENCE
+
+Run the following command after replacing YOUR_GITHUB_USERNAME with your GitHub username:
+
+curl -L -s -o /dev/null -w "%{http_code}\n" https://api.github.com/repos/YOUR_GITHUB_USERNAME/Introduction-to-Git-and-GitHub
+
+Then save the actual command and its terminal output below.
+
+Command:
+[PASTE COMMAND HERE]
+
+Terminal output:
+[PASTE ACTUAL OUTPUT HERE]
