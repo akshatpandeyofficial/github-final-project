@@ -85,6 +85,7 @@ Simple Interest = (P × R × T) / 100
 Total Amount = P + Simple Interest
 ```
 
+
 ## License
 
 This project is distributed under the Apache License 2.0. See the
