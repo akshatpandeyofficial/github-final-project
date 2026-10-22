@@ -3,6 +3,7 @@
 A simple command-line calculator that computes simple interest from a
 principal amount, an annual interest rate, and a time period in years.
 
+
 ## Purpose
 
 This project demonstrates how to calculate simple interest using the
